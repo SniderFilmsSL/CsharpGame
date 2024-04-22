@@ -1,4 +1,4 @@
-﻿namespace SniderFilms
+﻿namespace SniderFilms.Vistas
 {
     partial class Form1
     {

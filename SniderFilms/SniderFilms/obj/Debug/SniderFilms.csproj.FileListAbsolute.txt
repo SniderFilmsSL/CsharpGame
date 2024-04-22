@@ -1,0 +1,9 @@
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\bin\Debug\SniderFilms.exe.config
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\bin\Debug\SniderFilms.exe
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\bin\Debug\SniderFilms.pdb
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\obj\Debug\SniderFilms.csproj.AssemblyReference.cache
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\obj\Debug\SniderFilms.Properties.Resources.resources
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\obj\Debug\SniderFilms.csproj.GenerateResource.cache
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\obj\Debug\SniderFilms.csproj.CoreCompileInputs.cache
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\obj\Debug\SniderFilms.exe
+C:\Users\danip\Documentos\Snider\CSharp\SniderFilms\SniderFilms\obj\Debug\SniderFilms.pdb
